@@ -1,0 +1,28 @@
+table{
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    font-family: <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'> ;
+}
+
+h3{
+    font-size: 25px;
+    color: red;
+}
+
+li{
+    font-size: 25px;
+    color: red;
+}
+
+h2{
+    font-size: 25px;
+    color: green;
+    text-align: center;
+}
